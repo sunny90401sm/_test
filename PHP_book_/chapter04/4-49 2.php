@@ -1,9 +1,0 @@
-<?
-	$text = "ºê¶ó¿î´Ô¾Æ. »ç½Ã¹Ì Á¶³½ ¸¹ÀÌ ¸Ô¾î¼­ ¹è°¡ ¸¸¶¥ÀÌ¿¹¿ä.";
-
-	$bad_words = array("´Ô¾Æ", "¸¸¶¥", "Á¶³½", "»ç½Ã¹Ì");
-	$good_words = array("´Ô", "°¡µæ", "¸Å¿ì", "È¸");
-
-	$text = str_replace($bad_words, $good_words, $text);
-	echo $text;
-?>

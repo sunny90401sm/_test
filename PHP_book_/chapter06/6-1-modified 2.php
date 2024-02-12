@@ -1,4 +1,0 @@
-<?
-	setcookie('php');
-	echo 'ÄíÅ° ¿¹Á¦';
-?>

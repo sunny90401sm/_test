@@ -1,4 +1,0 @@
-<?
-	define ("HELLO","¾È³çÇÏ¼¼¿ä");
-	echo HELLO;
-?>
